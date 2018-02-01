@@ -8,6 +8,6 @@ print("a = " + str(a))  #Explicaremos la expresion str(a) mas adelante en el cur
 print("b = " + str(b))
 
 saludos = "saludos" #greetings
-print("saludos = " + str(saludos))
+print("saludos = " + saludos)
 saludos = 3
 print("saludos = " + str(saludos))
