@@ -5,5 +5,5 @@ puede usar la palabra reservada in.
 helado = "ice cream"
 print("cream" in helado)
 
-contains = "ick" in helado
+contains = "ice" in helado
 print(contains)
